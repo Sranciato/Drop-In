@@ -1,7 +1,7 @@
 # Drop In
 VR Skateboard Experience
 
-![Screenshot](https://imgur.com/a/T1ulyZY)
+![Screenshot](https://i.imgur.com/C7tMTAR.jpg)
 
 ## Features
 ### Online Multiplayer
