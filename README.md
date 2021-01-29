@@ -4,21 +4,17 @@ VR Skateboard Experience
 ![Screenshot](https://i.imgur.com/C7tMTAR.jpg)
 
 ## Features
-### Online Multiplayer
-- Free for all gamemode - First to 10 eliminations wins!
-- Host your own lobby - Players can host a lobby for their friends to join
-![Lobby](https://i.imgur.com/dnGoS9X.png)
-### High Mobility
-- Wall Climbing
-![Wall Climbing](https://media.giphy.com/media/kDZgt3qGlxpIqbE2wv/giphy.gif)
-- Wall Running
-![Wall Running](https://media.giphy.com/media/htqJ7MT7CprQkMLtzd/giphy.gif)
-- Double Jump
-![Double Jump](https://media.giphy.com/media/hrpawvGFY6s6jOFeCT/giphy.gif)
-### Bow and Arrow
-- Projectiles - Lead shots and compensate for arrow drop
-- Power - The longer you pull back the faster your arrow goes
-![Shooting](https://media.giphy.com/media/J4mXZB20m98a4fDEns/giphy.gif)
+### Interaction
+- Use your hands to grab the skateboard!
+- Use the elevator to ascend!
+![Lobby](https://i.imgur.com/Q6SpsWD.png)
+### Dropping In
+- Soar down different size ramps
+![Wall Climbing](https://i.imgur.com/6hukjob.png)
+- Lean on the board
+![Wall Running](https://i.imgur.com/s2aaH6n.jpg)
+### Free Ride
+- Skate around the city!
 
 ## Story
 Our project was inspired by some of the most popular first person shooters. In our opinion, the games we most enjoy consist of fast paced movement and projectile based shooting mechanics. We decided to focus on these mechanics to craft an enjoyable player experience for gamers with the same taste.
